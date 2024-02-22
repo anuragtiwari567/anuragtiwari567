@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
+![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hi 👋, I'm @Anurag Tiwari</h1>
 <h3 align="center">Passionate Data Science Enthusiast | India 🇮🇳</h3>
 
