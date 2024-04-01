@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuragt567" target="blank"><img src="https://img.shields.io/twitter/follow/anuragt567?logo=twitter&style=for-the-badge" alt="anuragt567" /></a> </p>
 
-- 🔭 I’m currently working on [Diamond Price Prediction](https://github.com/anuragtiwari567/Diamond-Price-Prediction)
+- 🔭 I’m currently working on [credit card fraud detection](https://github.com/anuragtiwari567/credit-card-fraud-detection)
 
 - 🌱 I’m currently learning **the intricacies of data science certification, along with natural language processing, big data, machine learning, deep learning, computer vision, and more.**
 
