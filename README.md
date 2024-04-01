@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **implementing advanced natural language processing techniques to enhance sentiment analysis accuracy in a text classification project."**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anuragtiwari567](https://github.com/anuragtiwari567)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/anuragtiwari567?tab=stars)
 
 - 💬 Ask me about **Machine Learning Model Deployment, Algorithm Selection, Data Visualization, Strategies Feature Engineering Techniques**
 
